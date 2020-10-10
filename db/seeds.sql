@@ -3,4 +3,4 @@ INSERT INTO burgers
 VALUES
     ("State of the Onion Burger", false),
     ("Lettuce Ketchup Later Burger", false),
-    ("Beef Wellington with Cheese Between Two Slices of Bread", true)
+    ("Beef Wellington with Cheese Between Two Slices of Bread", true);
