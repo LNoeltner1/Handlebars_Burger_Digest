@@ -9,5 +9,5 @@ CREATE TABLE burgers
     (255) NOT NULL,
 	devoured BOOLEAN DEFAULT false,
 	PRIMARY KEY
-    (id)
+    (id),
 );

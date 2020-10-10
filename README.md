@@ -40,4 +40,4 @@ You can ask questions at: You can contact me at http://www.github.com/LNoeltner1
 
 ## Screenshot
 
-![Screenshot](public\assets\img\screenshot.png)
+![Screenshot](public/assets/img/screenshot.png)
